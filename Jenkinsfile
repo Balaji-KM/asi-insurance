@@ -7,7 +7,7 @@ node{
         mavenHome = tool name: 'maven' , type: 'maven'
         mavenCMD = "${mavenHome}"
         tag="3.0"
-	dockerHubUser="BalajiKollaM"
+	dockerHubUser="balajikollam"
 	containerName="insure-me"
 	httpPort="8081"
     }
